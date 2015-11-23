@@ -161,6 +161,10 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
 }
+.header h1 img {
+    background: rgba(256,256,256,.5);
+    padding: 10px 10px 5px 5px;
+}
 .header h3 {
     color: white;
 }
