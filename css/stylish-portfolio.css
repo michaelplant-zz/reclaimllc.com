@@ -161,6 +161,9 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
 }
+.header h3 {
+    color: white;
+}
 
 /* About */
 
